@@ -2,8 +2,8 @@
 function getConnection(){
     $host = "localhost";     // Host database
     $user = "root";          // Username
-    $pass = "root";          // Password
-    $db   = "Sukses";        // Nama database
+    $pass = "root";              // Password
+    $db   = "Sukses";      // Nama database
 
     $conn = mysqli_connect($host, $user, $pass, $db);
 

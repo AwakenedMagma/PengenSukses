@@ -1,3 +1,8 @@
+# Anggota Kelompok Pengen Sukses
+# Aji Putra Pamungkas (50423097)
+# Maulana Badhawi (50423753)
+# Muhammad Verdiansyah (51423029)
+
 # React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
